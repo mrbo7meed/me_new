@@ -1,0 +1,14 @@
+p {  
+background-color:red;
+color: blue;
+}
+
+p.old {  
+background-color:green;
+color: blue;
+}
+
+img {
+width:25%;
+height:25%;
+}
